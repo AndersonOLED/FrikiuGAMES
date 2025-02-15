@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Venta de Juegos PS4/PS5</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Juegos Digitales PS4/PS5</h1>
+        <nav>
+            <ul>
+                <li><a href="#">Ofertas</a></li>
+                <li><a href="#">Categorías</a></li>
+                <li><a href="#">Plataformas</a></li>
+                <li><a href="#">Nuevos</a></li>
+                <li><a href="#">Contacto</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <section class="juegos">
+        <h2>Juegos Disponibles</h2>
+        <div class="contenedor-juegos">
+            <div class="juego">
+                <img src="https://upload.wikimedia.org/wikipedia/en/8/80/Resident_Evil_4_2023.jpg" alt="Resident Evil 4 Remake">
+                <h3>Resident Evil 4 Remake</h3>
+                <p>Precio: S/. 40</p>
+                <a href="https://wa.me/tu_numero" class="boton">Comprar</a>
+            </div>
+            <div class="juego">
+                <img src="https://upload.wikimedia.org/wikipedia/en/thumb/8/89/Senua%27s_Saga_Hellblade_II_cover_art.jpg/220px-Senua%27s_Saga_Hellblade_II_cover_art.jpg" alt="Hellblade">
+                <h3>Hellblade</h3>
+                <p>Precio: S/. 35</p>
+                <a href="https://wa.me/tu_numero" class="boton">Comprar</a>
+            </div>
+            <div class="juego">
+                <img src="https://upload.wikimedia.org/wikipedia/en/8/8c/Dragon_Ball_Sparking_Zero_cover_art.jpg" alt="Dragon Ball Sparking Zero">
+                <h3>Dragon Ball Sparking Zero</h3>
+                <p>Precio: S/. 50</p>
+                <a href="https://wa.me/tu_numero" class="boton">Comprar</a>
+            </div>
+            <div class="juego">
+                <img src="https://upload.wikimedia.org/wikipedia/en/thumb/a/a5/The_Last_of_Us_Part_II.png/220px-The_Last_of_Us_Part_II.png" alt="The Last of Us II">
+                <h3>The Last of Us II</h3>
+                <p>Precio: S/. 45</p>
+                <a href="https://wa.me/tu_numero" class="boton">Comprar</a>
+            </div>
+        </div>
+    </section>
+
+    <footer>
+        <p>© 2025 Venta de Juegos Digitales | Contacto: <a href="https://wa.me/tu_numero">WhatsApp</a></p>
+    </footer>
+</body>
+</html>
